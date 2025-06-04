@@ -5,3 +5,5 @@
 ## Технологии и библиотеки, которые использовались: 
 
 > FastAPI, Tkinter, pydantic, sqlite3, pathlib, requests
+
+2025г.
